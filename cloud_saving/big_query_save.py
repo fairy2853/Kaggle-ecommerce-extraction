@@ -21,4 +21,4 @@ def big_query_save():
     job = client.load_table_from_dataframe(df, table_id)
     job.result()
 
-    print("✅ uploded to bigquery")
+    print("uploded to bigquery")

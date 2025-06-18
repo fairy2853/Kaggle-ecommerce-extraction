@@ -15,4 +15,4 @@ def aws_save():
 
     bucket_name = "my-data-engineering-bucket"
     s3.upload_file("output/sales_summary.csv", bucket_name, "sales/sales_summary.csv")
-    print("✅ file uploaded to S3")
+    print("file uploaded to S3")
