@@ -1,0 +1,8 @@
+kaggle
+pandas
+numpy
+boto3
+python-dotenv
+pyarrow
+fastparquet
+google-cloud-bigquery
